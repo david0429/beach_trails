@@ -1,0 +1,181 @@
+pieces:
+- P00:
+    T: C
+    B: C
+    L: C
+    R: C
+- P01:
+    T: C
+    B: C
+    L: C
+    R: C
+- P02:
+    T: T
+    B: T
+    L: T
+    R: T
+- P03:
+    T: T
+    B: T
+    L: C
+    R: C
+- P04:
+    T: X
+    B: X
+    L: X
+    R: T
+- P05:
+    T: C
+    B: C
+    L: X
+    R: X
+- P10:
+    T: C
+    B: X
+    L: X
+    R: C
+- P11:
+    T: C
+    B: T
+    L: T
+    R: C
+- P12:
+    T: T
+    B: T
+    L: T
+    R: T
+- P13:
+    T: C
+    B: C
+    L: T
+    R: T
+- P14:
+    T: C
+    B: T
+    L: T
+    R: C
+- P15:
+    T: T
+    B: T
+    L: X
+    R: X
+- P20:
+    T: T
+    B: X
+    L: X
+    R: T
+- P21:
+    T: C
+    B: X
+    L: X
+    R: X
+- P22:
+    T: C
+    B: C
+    L: C
+    R: X
+- P23:
+    T: T
+    B: C
+    L: C
+    R: T
+- P24:
+    T: C
+    B: C
+    L: T
+    R: T
+- P25:
+    T: C
+    B: X
+    L: C
+    R: X
+- P30:
+    T: C
+    B: T
+    L: T
+    R: T
+- P31:
+    T: C
+    B: X
+    L: X
+    R: C
+- P32:
+    T: C
+    B: X
+    L: C
+    R: C
+- P33:
+    T: C
+    B: C
+    L: C
+    R: X
+- P34:
+    T: C
+    B: X
+    L: X
+    R: X
+- P35:
+    T: X
+    B: T
+    L: T
+    R: T
+- P40:
+    T: T
+    B: X
+    L: X
+    R: X
+- P41:
+    T: X
+    B: T
+    L: X
+    R: T
+- P42:
+    T: T
+    B: T
+    L: X
+    R: T
+- P43:
+    T: T
+    B: T
+    L: X
+    R: X
+- P44:
+    T: X
+    B: X
+    L: T
+    R: T
+- P45:
+    T: C
+    B: C
+    L: X
+    R: X
+- P50:
+    T: X
+    B: X
+    L: C
+    R: C
+- P51:
+    T: X
+    B: X
+    L: C
+    R: C
+- P52:
+    T: T
+    B: T
+    L: X
+    R: X
+- P53:
+    T: X
+    B: X
+    L: C
+    R: C
+- P54:
+    T: T
+    B: T
+    L: X
+    R: X
+- P55:
+    T: X
+    B: T
+    L: T
+    R: X
